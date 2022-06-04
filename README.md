@@ -1,6 +1,6 @@
 # Online-Movie-Reservation-System
 
-* The aim of this project is to book cinema tickets in online. The Ticket Reservation System is an Internet based application that can be accessed throughout the Net and can be accessed by anyone who has a net connection. This application will reserve the movie tickets . 
+* The aim of this project is to book cinema tickets in online. The Ticket Reservation System is an Internet based application that can be accessed throughout the Net and can be accessed by anyone who has a internet connection. This application will reserve the movie tickets . 
 * This online ticket reservation system provides a website for a cinema hall where any user of internet can access it and it also contains an admin module where the admin can Add the movie,Schedule the movie and can delete the movie respectively.
 *  User is required to login to the system,If new user the the user needs to register the sign up form and then login to the portal of ticket reservation. This website provides complete information regarding currently running movies on all the screens with details of show timings, available seats,time slots of the available movie.
 *  Ticket reservations are done using booking a particular slot. This online tickets reservation system is one of the best opportunities for those who cannot afford enough time to get their tickets reserved standing in long queues in the cinema halls. 
