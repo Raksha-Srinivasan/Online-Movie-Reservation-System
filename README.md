@@ -11,5 +11,4 @@
 * Servlet
 * HTML
 * CSS
-* Javascript
 * MySQL - For Backend
