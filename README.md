@@ -12,3 +12,27 @@
 * HTML
 * CSS
 * MySQL - For Backend
+
+# Output Screenshots
+
+![Picture](https://user-images.githubusercontent.com/75809224/171994045-60edc732-d6b9-4e51-a2b2-58a9c9d0f315.png)
+
+![Picture1](https://user-images.githubusercontent.com/75809224/171994048-90d082b8-79b6-47c8-b624-3b247cc964c3.png)
+
+![Picture2](https://user-images.githubusercontent.com/75809224/171994051-6d732ed4-bbc8-4eff-a21f-f46afc2b31be.png)
+
+![Picture3](https://user-images.githubusercontent.com/75809224/171994058-21dc0889-5f50-42b3-8893-951bde7e72b2.png)
+
+![Picture4](https://user-images.githubusercontent.com/75809224/171994060-bc0a6688-f77c-4a75-a64f-20440ae64f23.png)
+
+![Picture5](https://user-images.githubusercontent.com/75809224/171994064-cfcf640c-1bfc-408a-ad33-88ba1251a76a.png)
+
+![Picture6](https://user-images.githubusercontent.com/75809224/171994068-deb7a02c-a518-44bb-9d41-db791c452c8e.png)
+
+![Picture7](https://user-images.githubusercontent.com/75809224/171994069-8c73297e-152f-400a-b58e-38ab6010afec.png)
+
+![Picture8](https://user-images.githubusercontent.com/75809224/171994074-0dd4aaaa-c2c1-4c86-b8f7-82da59685d03.png)
+
+![Picture9](https://user-images.githubusercontent.com/75809224/171994077-d349390c-3855-4d4a-8304-ccef79a8eb7a.png)
+
+
